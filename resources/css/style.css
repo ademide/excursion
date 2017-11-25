@@ -20,6 +20,7 @@ h1{
 footer{
   text-align: right;
 }
+
 h2 {
   color: white;
   font-weight: 300;
@@ -37,5 +38,5 @@ a {
 }
 video{
   margin: 0 auto;
- display: block;
+  display: block;
 }
